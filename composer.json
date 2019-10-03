@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/GoMedia_Webhook",
+    "name": "openmage-module-fostering\/gomedia_webhook",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL-3.0)",
     "homepage": "",
