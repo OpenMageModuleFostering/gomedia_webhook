@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/GoMedia_Webhook",
+    "name": "OpenMageModuleFostering\/GoMedia_Webhook",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL-3.0)",
     "homepage": "",
     "description": "Post orders from Magento to any URL.",
     "authors": [
-    {
-        "name": "Go Media",
-        "email": "chris@gomedia.co.za"
-    }
-],
+        {
+            "name": "Go Media",
+            "email": "chris@gomedia.co.za"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
